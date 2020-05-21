@@ -96,7 +96,7 @@ def response (user_response):
 
 
 flag = True
-print('Chatbot: My name is Chatbot. I will answer your questions about global warming. I you wanna exit, type bye')
+print('Chatbot: My name is Vibeesh. I will answer your questions about global warming. If you wanna exit, type bye')
 while(flag==True):
     user_response= input()
     user_response=user_response.lower()
